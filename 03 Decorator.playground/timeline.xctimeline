@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/akaev/Documents/GitHub/DesignPatterns/03%20Decorator.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=4161&amp;EndingColumnNumber=13&amp;EndingLineNumber=168&amp;StartingColumnNumber=5&amp;StartingLineNumber=168&amp;Timestamp=636831499.80506"
+         lockedSize = "{497, 203}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/akaev/Documents/GitHub/DesignPatterns/03%20Decorator.playground#CharacterRangeLen=28&amp;CharacterRangeLoc=4319&amp;EndingColumnNumber=0&amp;EndingLineNumber=172&amp;StartingColumnNumber=12&amp;StartingLineNumber=170&amp;Timestamp=636831499.805202"
+         lockedSize = "{497, 196}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/akaev/Documents/GitHub/DesignPatterns/03%20Decorator.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=4385&amp;EndingColumnNumber=0&amp;EndingLineNumber=174&amp;StartingColumnNumber=0&amp;StartingLineNumber=173&amp;Timestamp=636831499.805317"
+         lockedSize = "{498, 202}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/akaev/Documents/GitHub/DesignPatterns/03%20Decorator.playground#CharacterRangeLen=26&amp;CharacterRangeLoc=4359&amp;EndingColumnNumber=0&amp;EndingLineNumber=173&amp;StartingColumnNumber=12&amp;StartingLineNumber=172&amp;Timestamp=636831499.805433"
+         lockedSize = "{498, 215}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
